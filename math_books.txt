@@ -1,0 +1,117 @@
+Bootcamp On Control Theory; Youtube
+Explained.ai/matrix-calculus
+Geometric Folding Algorithms: MIT Course
+Physics, Topology, Logic And Computation: A Rosetta Stone
+Purely Functional Data Structures By Okasaki
+Real World Haskell By Bryan O Sollivan
+Pearls Of Functional Algorithm Design
+Infinite Powers: Steven Strogatz
+Journey Through Genius: The Great Theorems Of Mathematics: William Dunham
+Euler: The Master Of Us All William Dunham
+The Calculus Gallery: Masterpieces From Newton To Lebesgue
+Introduction To Abstract Algebra By W. Keith Nicholson
+Mathematics: Form And Function: Saunders Maclane
+Love And Math From Edward Frenkel
+Fermats Last Theorem: Simon Singh
+Surely Your Joking Mr.Feynman
+Things To Make And Do In The Fourth Dimension
+Elements (euclid)
+Godel's Proof - Nagel/newman
+Proofs Of 'the Book'
+The Man Who Loved Only Numbers (hoffman)
+Set Theory, Topology, And Other Maths/physics: Https://www.youtube.com/watch?v=V49i_LM8B0E&list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic
+A Mathematicians Apology: Gd Hardy
+A Friendly Introduction To Number Theory By Silverman
+How Mathematicians Think, By William Byers
+To Infinity And Beyond, By Eli Maor
+An Introduction To Mathematics, By Alfred North Whitehead
+The Power Of Mindful Learning, By Ellen J. Langer
+Thermodynamics - Enrico Fermi
+Physical Chemistry - A Molecular Approach
+Process Heat Transfer
+Optimal Control Theory: An Introduction
+Fundamentals Of Electric Circuits
+Mathematics Its Content Methods And Meaning
+Fourier Series And Boundary Value Problems Churchill 1941
+Algebra: An Elementary Text-Book
+Ordinary Differential Equations - Dover
+Probability Theory: The Logic Of Science
+Course Of Modern Analysis Whittaker And Wastom
+Theory Of Functions Of A Complex Variable
+Discrete Mathematics With Applications - Susanna S. Epp
+Mathematics: A Discrete Introduction - Edward R. Scheinerman
+Analysis I Terence Tao
+Analysis 2 Tarence Tao
+From Calculus To Analysis - Steen Pedersen
+Writing Proofs In Analysis - Jonathan M. Kane
+Topology - James Munkres
+Topology Without Tears - Sidney A. Morris
+Numerical Analysis - Timothy Sauer
+An Introduction To Numerical Methods And Analysis - James F. Epperson
+Combinatorial Reasoning: An Introduction To The Art Of Counting - Duana Detemple
+Introductory Combinatorics - Richard A. Brualdi
+Elements Of Set Theory - Berbert Enderton
+Princeton Lectures In Analysis I
+Princeton Lectures In Analysis 2
+Princeton Lectures In Analysis 3
+Princeton Lectures In Analysis 4
+Introduction To Lattices And Order - Ba Davey
+Lattices And Ordered Sets - Steven Roman
+Post-modern Algebra - Jonathan D.H Smith
+Universal Algebra - P.M. Cohn
+Propositional And Predicate Calculus - Derek Godrei
+Mathematical Logic - Ian Chiswell
+Computability Theory - Herbert Enderton
+Introduction To The Theory Of Computation - Michael Spiser
+Numerical Methods That Usually Work - Forman S. Acton
+Elementary Number Theory - Kenneth H. Rosen
+Algebra Abstract And Concrete - Frederick Goodman
+Linear Algebra Done Wrong - Sergei Treil
+Algebra: Chapiter 0 - Paolo Aluffi
+Algebra: A Graduate Course: I Martin Isaacs
+Number Fields - Daniel A Marcus
+Sets For Mathematics - F.w. Lawvere
+Arrows Structures And Functors: The Categorical Imperitive: Micheal A. Arbib
+Category Theory: A Gentle Introduction
+Basic Category Theory - Tom Leinster
+Visual Complex Analysis - Tristan Needham
+Complex Analysis With Applications - Dennis G. Zill
+The Elements Of Real Analysis - Robert G. Bartle
+Advanced Calculus Of Several Variables - C.h. Edwards Jr.
+Principles Of Mathematical Analysis - Walter Rudin
+Applied Optimization - Ross Baldick
+An Introduction To Optimization - Edwin K.p. Chong
+Convex Optimization Theory - Dimitri P. Bertsekas
+Foundations Of Optimization - Osman Guler
+A Differential Approach To Geometry - Francis Borceux
+Elementary Differenctial Geometry - Andrew Pressley
+Manifolds, Tensors And Forms - Paul Renteln
+A Comprehensive Introduction To Differential Geometry - Michal Spivak
+Introdutory Functional Analysis With Applications - Erwin Kreyszig
+Principles Of Functional Analysis - Martin Scheter
+Real And Complex Analysis - Walter Rudin
+Real Analysis - Gerald B. Folland
+Glassical Geometry - I. E. L., J.E.L, A.C.F.L, G.W.T
+Modern Geometry With Applications - George A. Gennings
+Invitation To Combinatorical Topology - Maurice Frechet And Ky Fan
+Basic Concepts Of Algebraic Topology - Fred H. Croom
+Elements Of Algebraic Topology - James Munkres
+A First Course In Algebraic Topology - C. Kosniowski
+Elementary Algebraic Geometry - Keith Kendig
+Ideals Varieties And Algorithms - David A. Cox
+A Royal Road To Algebraic Geometry - Audune Holme
+Foundations Of Physically Based Modeling And Animation
+More Than 100 Years Of Writing By The Numbers: Book Of Mathematics
+Elements De Mathematiques (fr) - Nicholas Bourbaki
+Computer Graphics: Principles And Practice James Folley
+Linear Algebra And Its Applications - Gilbert Strang
+Elementary Differential Geometry - Barrett O Neil
+Numerical Recipes In C: The Art Of Scientific Computing
+The Fourier Transform And Its Applications - Ronald N Bracewell
+Matrix Computations - Gene Golub
+Computational Geometry In C - Joseph Orourke
+Computational Geometry: An Introduction - Franco Preparata
+Proof, Logic, And Conjecture: The Mathematician's Toolbox
+How To Read And Do Proofs: An Introduction To Mathematical Thought Processes
+How To Solve It: A New Aspect Of Mathematical Method (Princeton Science Library)
+Mathematics And Plausible Reasoning, Volume 1: Induction And Analogy In Mathematics
