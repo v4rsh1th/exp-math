@@ -2,6 +2,7 @@
 
 > I have been thinking of feeding my brain a little math everyday. Also, I am a bit too clumsy towards which one to consider.
 > So I made a tool with *Python* that could randomly pick me a book.
+> Basically, I'm just recommending you Math textbooks.
 ******************************************************************************
 #### How to use it?
 * Make sure you have *Python* installed.
